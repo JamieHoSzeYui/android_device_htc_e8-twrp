@@ -103,3 +103,7 @@ TW_USE_TOOLBOX := true
 
 # Vendor Init
 TARGET_INIT_VENDOR_LIB := libinit_$(TARGET_DEVICE)
+
+# PB Go
+PB_GO := TRUE
+
